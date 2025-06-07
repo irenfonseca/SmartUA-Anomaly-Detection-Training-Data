@@ -33,4 +33,5 @@ This training dataset supports research on anomaly detection in smart buildings 
 If you use this dataset, please cite the corresponding publication describing the eCAD system.
 
 ## 📄 License
-Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).  
+See the [LICENSE](./LICENSE) file for details.
